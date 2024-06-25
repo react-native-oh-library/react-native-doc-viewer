@@ -1,6 +1,6 @@
 {
   "name": "@react-native-oh-tpl/react-native-fileupload",
-  "version": "2.7.9",
+  "version": "2.7.8-0.0.1",
   type: 'module',
   dependencies: {
     "@rnoh/react-native-openharmony": 'file:../react_native_openharmony'
