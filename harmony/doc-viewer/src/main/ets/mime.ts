@@ -66,7 +66,7 @@ const mimeMap = {
   xhtml: 'application/xhtml+xml',
   xls: 'application/vnd.ms-excel',
   xlsx: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
-  xml: 'application/xml',
+  xml: 'text/xml',
   xul: 'application/vnd.mozilla.xul+xml',
   zip: 'application/zip',
   '3gp': 'video/3gpp',
